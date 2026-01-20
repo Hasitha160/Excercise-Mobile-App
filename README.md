@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily Exercise App
 
 A comprehensive Flutter mobile application for tracking workouts, setting fitness goals, and monitoring progress. Built with Firebase for backend services and authentication.
@@ -353,3 +354,7 @@ Built with ❤️ using Flutter and Firebase
 ---
 
 **Note**: Remember to never commit your `google-services.json`, `GoogleService-Info.plist`, or any files containing API keys to public repositories. Add them to `.gitignore` if sharing your code publicly.
+=======
+# Excercise-Mobile-App
+An exercise and fitness mobile application that helps users follow structured workouts, track progress, and maintain a healthy lifestyle.
+>>>>>>> origin/main
